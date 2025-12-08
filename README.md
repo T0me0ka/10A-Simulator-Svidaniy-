@@ -7,11 +7,17 @@
 # для запуска игры необходимо:
 1.мозг
 
+![мозги в жопе(1)](https://github.com/user-attachments/assets/f3d78ac3-4bb0-4e4b-8928-c47409160135)
+
 2.виндовс 7, 8, 8.1, 10, 11
 
+![Windows](https://github.com/user-attachments/assets/091377d5-47e3-43da-8250-f1d221b98832)
+
 3.PowerPoint
-# чтобы модифицировать игру:
+# чтобы запустить игру нужно:
 1.распакуй архив
+
+![THIS BRAND MADE THE WINRAR LOGO COME TO LIFE via…](https://github.com/user-attachments/assets/d9c17192-87a0-4f58-99ca-1e329ec36def)
 
 2.запусти 10А симулятор свиданий pre-alpha 0.3.3.ppsx
 
@@ -19,17 +25,25 @@
 # чтобы модифицировать игру нужно:
 1.распаковать архив
 
+![THIS BRAND MADE THE WINRAR LOGO COME TO LIFE via…](https://github.com/user-attachments/assets/00a6b2d9-7553-4662-b0fe-7abaa4c9c1b6)
+
 2.запустить 10А симулятор свиданий pre-alpha 0.3.3.pptx
 
 3.готово, можете начинать творить.
 
 # ВАЖНО!!!
+
+<img width="912" height="911" alt="Screenshot_302" src="https://github.com/user-attachments/assets/e7c165e7-2506-454f-ad72-5d3f51810dc7" />
+
 В ИГРЕ НЕТ СОХРАНЕНИЙ!!!
 # Создатели:
+
 Данил Усынин - "код", визуал, сценарий.
 
 Ветрова Ксения - сценарист
 
 # P.s
+
+![Забрал бы_](https://github.com/user-attachments/assets/fc9e5388-99d4-46ce-b22e-7873b5bd8977)
 
 <img width="918" height="690" alt="Screenshot_301" src="https://github.com/user-attachments/assets/a3ce1479-49a8-42c0-86b7-e9132ff0920c" />
