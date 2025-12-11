@@ -50,8 +50,7 @@
 <img width="1283" height="716" alt="Screenshot_353" src="https://github.com/user-attachments/assets/cfcbf2b5-bed5-418e-b2f0-049f406b39d7" />
 
 # Создатели:
-
-Данил Усынин - "код", визуал, сценарий.
+Усынин Данил - "код", визуал, сценарий.
 
 Ветрова Ксения - сценарист
 
