@@ -40,6 +40,7 @@
 # СНИК-ПИКИ БУДУЩИХ ОБНОВЛЕНИЙ
 
 # 0.4
+17.12.2025
 
 <img width="1283" height="723" alt="Screenshot_350" src="https://github.com/user-attachments/assets/d466a28e-bb09-4483-a842-d64087227e7b" />
 
@@ -48,11 +49,6 @@
 <img width="1279" height="719" alt="Screenshot_352" src="https://github.com/user-attachments/assets/18b699ef-0c19-47bd-b86c-0c2c9ff0307f" />
 
 <img width="1283" height="716" alt="Screenshot_353" src="https://github.com/user-attachments/assets/cfcbf2b5-bed5-418e-b2f0-049f406b39d7" />
-
-# Создатели:
-Усынин Данил - "код", визуал, сценарий.
-
-Ветрова Ксения - сценарист
 
 # P.s
 
